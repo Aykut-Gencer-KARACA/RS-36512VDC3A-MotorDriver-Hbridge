@@ -69,7 +69,7 @@ Bu tarz projelerde PWM sinyalleri genellikle dijital devrelerle üretilir ve fre
 
 ---
 
-## 🎛️ Karar Birimi
+## 🎮 Karar Birimi
 
 Motorun dönüş yönüne karar veren mekanizma olarak bir **anahtar** kullandım.
 
@@ -87,7 +87,7 @@ Bu yüksek anlık akım AND ve NOT kapılarıyla sağlanamayacağı için:
 
 ---
 
-## 🖼️ Devre Görselleri
+## 📷 Devre Görselleri
 
 <img width="1283" height="672" alt="Regülatör Devresi" src="https://github.com/user-attachments/assets/7df14e58-e9e2-476c-a682-4641e7217c15" />
 
